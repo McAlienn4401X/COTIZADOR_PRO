@@ -13,7 +13,7 @@ Descarga CotizadorPro.html en cualquier carpeta (ej: Documentos)
 Haz clic derecho sobre el archivo → "Crear acceso directo"
 Arrastra el acceso directo al Escritorio
 Doble clic para abrir → se abre en Edge/Chrome/Firefox
-🍎 macOS
+ macOS
 # En la Terminal:
 bash instalar_CotizadorPro.sh
 O manualmente: clic derecho en CotizadorPro.html → "Abrir con" → tu navegador.
@@ -24,13 +24,13 @@ chmod +x instalar_CotizadorPro.sh
 ./instalar_CotizadorPro.sh
 Funcionalidades
 Característica	Descripción
-🏢 Mi Empresa	Configura nombre, NIT, logo, dirección, colores
-📋 Nueva Cotización	Crea cotizaciones con ítems, descuentos, IVA
-💾 Guardar Borradores	Todo se guarda automáticamente en el navegador
-📄 Exportar PDF	PDF profesional con diseño corporativo
-📊 Dashboard	Estadísticas de cotizaciones aceptadas y valores
-🔍 Historial	Lista completa con filtros por estado
-🌍 Multi-moneda	COP, USD, EUR, MXN, PEN, CLP, ARS, BRL
+ Mi Empresa	Configura nombre, NIT, logo, dirección, colores
+Nueva Cotización	Crea cotizaciones con ítems, descuentos, IVA
+Guardar Borradores	Todo se guarda automáticamente en el navegador
+ Exportar PDF	PDF profesional con diseño corporativo
+Dashboard	Estadísticas de cotizaciones aceptadas y valores
+Historial	Lista completa con filtros por estado
+ Multi-moneda	COP, USD, EUR, MXN, PEN, CLP, ARS, BRL
 Requisitos
 Un navegador moderno: Chrome, Firefox, Edge, Safari (versión 2020+)
 Conexión a internet la primera vez que exportes PDF (descarga jsPDF ~300KB)
